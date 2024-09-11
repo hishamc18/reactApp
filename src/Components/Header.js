@@ -5,10 +5,10 @@ function Header() {
         <div className="header">
             <h1>Leofy</h1>
             <ul className="ul">
-                <li><a href="/Users/hishamc/Downloads/Bridgeon/React/firstapp/public/index.html">Home</a></li>
-                <li><a href="/Users/hishamc/Downloads/Bridgeon/React/firstapp/public/index.html">About</a></li>
-                <li><a href="/Users/hishamc/Downloads/Bridgeon/React/firstapp/public/index.html">Project</a></li>
-                <li><a href="/Users/hishamc/Downloads/Bridgeon/React/firstapp/public/index.html">Contact</a></li>
+                <li><a href="https://hishamc.netlify.app">Home</a></li>
+                <li><a href="https://hishamc.netlify.app">About</a></li>
+                <li><a href="https://hishamc.netlify.app">Project</a></li>
+                <li><a href="https://hishamc.netlify.app">Contact</a></li>
             </ul>
         </div>
     );
