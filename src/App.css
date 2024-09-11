@@ -49,7 +49,7 @@ span{
 
 
 .App{
-  background-color: rgba(0,91,108,255)
+  background-color: rgba(0,91,108,255);
   height: 100vh;
   display: flex;
   flex-wrap: wrap;
