@@ -1,0 +1,57 @@
+.header{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 30px;
+  width: 100vw;
+  color: white;
+}
+
+.ul li{
+  display: inline;
+  padding: 0px 25px 0px 25px;
+  font-weight: 600;
+  font-size: 23px;
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(255, 255, 255); 
+
+}
+
+.body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+}
+
+span{
+  color: rgb(255, 255, 255);
+}
+
+.about{
+  display: inline-block;
+}
+
+.body img{
+  border-radius: 50%;
+  width: 410px;
+  height: 450px;
+  margin-left: 100px;
+}
+
+.foot{
+  width: 100vw;
+  text-align: center;
+}
+
+
+.App{
+  background-color: rgb(32, 111, 123);
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
