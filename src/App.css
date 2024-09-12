@@ -103,6 +103,8 @@ span {
     width: 80%;
     height: 340px;
     margin: 10px 0;
+    border-radius: 50px;
+    transition: 0.5s;
   }
 
   .header ul li{
