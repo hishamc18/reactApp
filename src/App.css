@@ -100,8 +100,16 @@ span {
   }
 
   .body img {
-    width: 75%;
-    height: 370px;
+    width: 80%;
+    height: 340px;
     margin: 10px 0;
+  }
+
+  .header ul li{
+    font-size: 13px;
+  }
+
+  .foot{
+    font-size: 13px;
   }
 }
