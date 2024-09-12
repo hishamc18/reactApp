@@ -100,7 +100,8 @@ span {
   }
 
   .body img {
-    width: 100%;
+    width: 75%;
+    height: 370px;
     margin: 10px 0;
   }
 }
